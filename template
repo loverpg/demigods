@@ -1,0 +1,66 @@
+/*            「 sun's dawn 」
+     
+  TEMPLATE CRIADO POR ROSS, NÃO TIRE OS CRÉDITOS
+  CÓDIGO MELHORADO POR MIM PARA APENAS O USO DO RPG
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+.diana {
+  width: 500px;
+  border: 2px solid var(--cor-grupo);
+  margin: auto auto;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.titulo {
+  width: 500px;
+  box-sizing: border-box;
+  padding: 20px;
+  text-align: left;
+  margin-right: -85px;
+  color: var(--cor-grupo);
+  position: relative;
+  text-transform: lowercase;
+  font: bold 38px/20px Times;
+  letter-spacing: -3px;
+}
+
+.subtitulo {
+  width: 135px;
+  height: 80px;
+  border-left: 2px solid var(--cor-rgba);
+  margin-top: -50px;
+  margin-bottom: -30px;
+  position: relative;
+  left: 195px;
+  text-align: justify;
+  padding: 5px 10px;
+  box-sizing: border-box;
+  font: italic bold 14px/15px Times;
+  color: var(--cor-sub);
+  text-transform: uppercase;  
+}
+
+.text{
+  color: #7d7d7d;
+  font: 11.5px/20px Verdana;
+  text-align: justify;
+  position: relative;
+  white-space: pre-line;
+}
+
+.text b {
+  color: var(--cor-rgba);
+}
+
+.text i {
+  color: var(--cor-rgba);
+}
+
+#ranni {
+  --cor-grupo: #bd5435;
+  --cor-rgba: rgba(189, 84, 53, 1);
+  --cor-sub: #dca08e;
+}
