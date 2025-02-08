@@ -44,10 +44,11 @@
 
 .text{
   color: #7d7d7d;
-  font: 11.5px/20px Verdana;
+  font: 23px Verdana;
   text-align: justify;
   position: relative;
   white-space: pre-line;
+  line-height: 25px;
 }
 
 .text b {
