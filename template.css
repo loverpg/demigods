@@ -17,7 +17,6 @@
 .titulo {
   width: 500px;
   box-sizing: border-box;
-  padding: 20px;
   text-align: left;
   margin-right: -85px;
   color: var(--cor-grupo);
@@ -31,7 +30,7 @@
   width: 135px;
   height: 80px;
   border-left: 2px solid var(--cor-rgba);
-  margin-top: -50px;
+  margin-top: -65px;
   margin-bottom: -30px;
   position: relative;
   left: 195px;
